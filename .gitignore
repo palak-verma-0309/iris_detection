@@ -1,0 +1,37 @@
+# Python-related files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Dependency files
+Pipfile.lock
+poetry.lock
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Media-related files
+*.mp4
+*.avi
+*.jpg
+*.png
+datasets/
+
+# Logs, databases, or application-specific files
+*.log
+logs/
+*.sqlite3
+db.sqlite3
+
+# Environment variables
+.env
